@@ -1,7 +1,7 @@
 import axios from 'axios';
 import React from 'react';
 import { createContext, useState, useEffect } from "react";
-import { getNewsAPI, getSourceAPI } from './api';
+import { getNewsAPI, getSourceAPI } from './api2';
 
 export const NewsContext = createContext()
 

@@ -1,7 +1,7 @@
 import { View, Text, StyleSheet, TouchableOpacity, Image, Dimensions } from 'react-native'
 import React, { useContext } from 'react'
 import { NewsContext } from '../API/Context';
-import { categories, sources } from "../API/api";
+import { categories, sources } from "../API/api2";
 import Carousel from "react-native-snap-carousel";
 import Search from '../components/Search';
 
