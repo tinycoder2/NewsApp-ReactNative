@@ -5,7 +5,7 @@ import InshortTabs from './components/InshortTabs';
 
 function App() {
   return (
-    <View style={{ ...styles.container, backgroundColor: "white" }}>
+    <View style={{ ...styles.container, backgroundColor: "lightblue" }}>
       <InshortTabs />
     </View>
   );
