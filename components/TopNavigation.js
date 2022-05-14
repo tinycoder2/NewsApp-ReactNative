@@ -34,7 +34,7 @@ const TopNavigation = ({ index, setIndex }) => {
             {index ? (
                 <TouchableOpacity
                     style={styles.right}
-                    onPress={() => fetchNews("general")}
+                    onPress={() => fetchNews("home")}
                 >
                     <Text style={styles.text}>
                         <AntDesign name="reload1" size={24} color="#007FFF" />

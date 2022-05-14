@@ -5,8 +5,20 @@ import Carousel from "react-native-snap-carousel";
 import SingleNews from '../components/SingleNews';
 
 const NewsScreen = () => {
-    const { news: { articles }
+
+
+    const filterByArticle = (obj) => {
+        if (obj.item_type == "Article") {
+            return true
+        }
+        return false;
+
+    }
+
+    const { news: { results }
     } = useContext(NewsContext);
+
+    // console.log("res", results)
 
     const [activeIndex, setActiveIndex] = useState();
     const windowHeight = Dimensions.get("window").height;
@@ -14,10 +26,10 @@ const NewsScreen = () => {
     return (
         <View style={styles.carousel}>
             {
-                articles && (
+                results && (
                     <Carousel
                         layout={"stack"}
-                        data={articles.slice(0, 10)}
+                        data={results.filter(filterByArticle).slice(0, 10)}
                         sliderHeight={300}
                         itemHeight={windowHeight}
                         vertical={true}

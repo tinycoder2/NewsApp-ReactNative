@@ -1,0 +1,1644 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2022 The New York Times Company. All Rights Reserved.",
+    "section": "Science",
+    "last_updated": "2022-05-12T14:28:28-04:00",
+    "num_results": 27,
+    "results": [
+        {
+            "section": "science",
+            "subsection": "",
+            "title": "Sign Up for the Science Times Newsletter",
+            "abstract": "Every week, we’ll bring you stories that capture the wonders of the human body, nature and the cosmos.",
+            "url": "null",
+            "uri": "nyt://embeddedinteractive/daba9d03-29b8-5cfc-8cbd-74b8abf54a07",
+            "byline": "",
+            "item_type": "EmbeddedInteractive",
+            "updated_date": "2018-04-07T13:23:25-04:00",
+            "created_date": "2016-02-05T18:18:53-05:00",
+            "published_date": "2016-02-05T18:18:53-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2016/02/06/science/sciencenewsletter2/sciencenewsletter2-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1534,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "NASA, via Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2016/02/06/science/sciencenewsletter2/sciencenewsletter2-mediumThreeByTwo440.jpg",
+                    "format": "mediumThreeByTwo440",
+                    "height": 293,
+                    "width": 440,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "NASA, via Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2016/02/06/science/sciencenewsletter2/sciencenewsletter2-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "NASA, via Associated Press"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "admin",
+            "subsection": "",
+            "title": "",
+            "abstract": "",
+            "url": "",
+            "uri": "nyt://embeddedinteractive/6cb185ed-65ac-50a5-ace3-5bab81934245",
+            "byline": "",
+            "item_type": "EmbeddedInteractive",
+            "updated_date": "2015-07-20T13:45:03-04:00",
+            "created_date": "2015-04-16T14:13:18-04:00",
+            "published_date": "2015-04-16T14:13:18-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": null,
+            "short_url": ""
+        },
+        {
+            "section": "us",
+            "subsection": "",
+            "title": "The Tick That Causes a Meat Allergy Is on the Move",
+            "abstract": "The lone star tick can trigger an allergic reaction to red meat in those bitten. Now this arachnid’s territory is expanding.",
+            "url": "https://www.nytimes.com/2022/05/13/us/lone-star-tick-bite-meat-allergy.html",
+            "uri": "nyt://article/69cad415-77e3-56ad-bd5e-e92480be7c35",
+            "byline": "By Livia Albeck-Ripka",
+            "item_type": "Article",
+            "updated_date": "2022-05-13T07:21:12-04:00",
+            "created_date": "2022-05-13T07:21:12-04:00",
+            "published_date": "2022-05-13T07:21:12-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Ticks (Insects)",
+                "Lyme Disease",
+                "Global Warming",
+                "Deer",
+                "Allergies"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Delaware",
+                "United States"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/05/02/multimedia/00xp-ticks/00xp-ticks-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A female lone star tick, or Amblyomma americanum, that was collected in Maryland.",
+                    "copyright": "NIAID/Universal Images Group, via Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/05/02/multimedia/00xp-ticks/00xp-ticks-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A female lone star tick, or Amblyomma americanum, that was collected in Maryland.",
+                    "copyright": "NIAID/Universal Images Group, via Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/05/02/multimedia/00xp-ticks/00xp-ticks-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A female lone star tick, or Amblyomma americanum, that was collected in Maryland.",
+                    "copyright": "NIAID/Universal Images Group, via Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/3FFHfv6"
+        },
+        {
+            "section": "climate",
+            "subsection": "",
+            "title": "Did Warming Play a Role in Deadly South African Floods? Yes, a Study Says.",
+            "abstract": "Climate change sharply increased the chances of catastrophic rains in the country’s east, a team of researchers has found.",
+            "url": "https://www.nytimes.com/2022/05/13/climate/south-africa-floods-climate-change.html",
+            "uri": "nyt://article/c15b4759-6489-51e4-9e3e-213b54fc3540",
+            "byline": "By Henry Fountain",
+            "item_type": "Article",
+            "updated_date": "2022-05-13T10:31:16-04:00",
+            "created_date": "2022-05-13T07:00:10-04:00",
+            "published_date": "2022-05-13T07:00:10-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Floods",
+                "Global Warming",
+                "Research",
+                "Landslides and Mudslides",
+                "Deaths (Fatalities)",
+                "Rain"
+            ],
+            "org_facet": [
+                "World Weather Attribution"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "South Africa",
+                "Kwazulu-Natal Province (South Africa)",
+                "Eastern Cape Province (South Africa)",
+                "Durban (South Africa)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/05/13/climate/13cli-southafricafloods1/merlin_205723344_78cc4733-c7e5-45d3-abd8-3d511b372d94-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Residents of Inanda, a township north of Durban, searched rubble and debris from floods in April. ",
+                    "copyright": "Joao Silva/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/05/13/climate/13cli-southafricafloods1/13cli-southafricafloods1-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Residents of Inanda, a township north of Durban, searched rubble and debris from floods in April. ",
+                    "copyright": "Joao Silva/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/05/13/climate/13cli-southafricafloods1/13cli-southafricafloods1-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Residents of Inanda, a township north of Durban, searched rubble and debris from floods in April. ",
+                    "copyright": "Joao Silva/The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3LbiWXf"
+        },
+        {
+            "section": "world",
+            "subsection": "asia",
+            "title": "South Korea Turns to Surveillance as ‘Ghost Surgeries’ Shake Faith in Hospitals",
+            "abstract": "After scandals in which doctors let unsupervised assistants operate on patients, the country is becoming one of the first to require cameras in operating rooms.",
+            "url": "https://www.nytimes.com/2022/05/13/world/asia/south-korea-cameras-ghost-surgery.html",
+            "uri": "nyt://article/2e1e2e4a-39b6-5873-add9-1f747d04aa2a",
+            "byline": "By John Yoon",
+            "item_type": "Article",
+            "updated_date": "2022-05-13T07:50:39-04:00",
+            "created_date": "2022-05-13T05:00:38-04:00",
+            "published_date": "2022-05-13T05:00:38-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Surgery and Surgeons",
+                "Frauds and Swindling",
+                "Law and Legislation",
+                "Hospitals",
+                "Doctors",
+                "Nursing and Nurses"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "South Korea"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/05/12/world/12skorea-ghostsurgeries-01/12skorea-ghostsurgeries-01-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Kookmin Hospital, near Seoul, voluntarily put cameras in its operating rooms in 2020. A new law will make them mandatory nationwide.",
+                    "copyright": "Chang W. Lee/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/05/12/world/12skorea-ghostsurgeries-01/12skorea-ghostsurgeries-01-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Kookmin Hospital, near Seoul, voluntarily put cameras in its operating rooms in 2020. A new law will make them mandatory nationwide.",
+                    "copyright": "Chang W. Lee/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/05/12/world/12skorea-ghostsurgeries-01/12skorea-ghostsurgeries-01-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Kookmin Hospital, near Seoul, voluntarily put cameras in its operating rooms in 2020. A new law will make them mandatory nationwide.",
+                    "copyright": "Chang W. Lee/The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3Me8xLx"
+        },
+        {
+            "section": "arts",
+            "subsection": "design",
+            "title": "Dinosaur Skeleton Sells for $12.4 Million at Christie’s",
+            "abstract": "The remains of a Deinonychus antirrhopus, the beast that inspired the velociraptor in “Jurassic Park,” are believed to be the first of their kind sold at a public auction.",
+            "url": "https://www.nytimes.com/2022/05/12/arts/design/velociraptor-auction-jurassic-park.html",
+            "uri": "nyt://article/13eeb29c-bf50-560f-b5ac-801bbd2617bb",
+            "byline": "By Julia Jacobs",
+            "item_type": "Article",
+            "updated_date": "2022-05-12T23:04:02-04:00",
+            "created_date": "2022-05-12T22:17:08-04:00",
+            "published_date": "2022-05-12T22:17:08-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Dinosaurs",
+                "Auctions",
+                "Skeletons",
+                "Jurassic Park (Movie)",
+                "Paleontology"
+            ],
+            "org_facet": [
+                "Christie's"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/05/12/multimedia/12raptor-auction/12raptor-auction-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1537,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Deinonychus antirrhopus specimen, nicknamed Hector, was discovered in Montana.",
+                    "copyright": "Christie's Images Ltd."
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/05/12/multimedia/12raptor-auction/12raptor-auction-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Deinonychus antirrhopus specimen, nicknamed Hector, was discovered in Montana.",
+                    "copyright": "Christie's Images Ltd."
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/05/12/multimedia/12raptor-auction/12raptor-auction-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Deinonychus antirrhopus specimen, nicknamed Hector, was discovered in Montana.",
+                    "copyright": "Christie's Images Ltd."
+                }
+            ],
+            "short_url": "https://nyti.ms/3FDOALT"
+        },
+        {
+            "section": "climate",
+            "subsection": "",
+            "title": "Biden Administration Cancels Drilling Sales in Alaska and Gulf of Mexico",
+            "abstract": "Republicans link the move to rising gas prices while the administration said it was a result of conflicting legal opinions and a lack of interest among bidders.",
+            "url": "https://www.nytimes.com/2022/05/12/climate/biden-oil-gas-lease-sales.html",
+            "uri": "nyt://article/2a1c1032-0ade-5e98-99e4-4ec430270f2c",
+            "byline": "By Lisa Friedman",
+            "item_type": "Article",
+            "updated_date": "2022-05-12T23:16:46-04:00",
+            "created_date": "2022-05-12T11:37:47-04:00",
+            "published_date": "2022-05-12T11:37:47-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Global Warming",
+                "Greenhouse Gas Emissions",
+                "Oil (Petroleum) and Gasoline",
+                "Offshore Drilling and Exploration",
+                "Natural Gas",
+                "Federal Lands"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Biden, Joseph R Jr"
+            ],
+            "geo_facet": [
+                "Gulf of Mexico",
+                "Alaska"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/05/12/climate/12cli-leases/12cli-leases-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An oil and gas platform in the Cook Inlet of Alaska in 2013.",
+                    "copyright": "Pete Niesen Select Images/Alamy"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/05/12/climate/12cli-leases/12cli-leases-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An oil and gas platform in the Cook Inlet of Alaska in 2013.",
+                    "copyright": "Pete Niesen Select Images/Alamy"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/05/12/climate/12cli-leases/12cli-leases-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An oil and gas platform in the Cook Inlet of Alaska in 2013.",
+                    "copyright": "Pete Niesen Select Images/Alamy"
+                }
+            ],
+            "short_url": "https://nyti.ms/3L2ya0J"
+        },
+        {
+            "section": "health",
+            "subsection": "",
+            "title": "F.D.A. Authorizes Underwear to Protect Against S.T.I.s During Oral Sex",
+            "abstract": "It’s the first time underwear has been authorized for this purpose, and it provides a new choice for protection where the few options have been unpopular.",
+            "url": "https://www.nytimes.com/2022/05/12/health/fda-underwear-sti.html",
+            "uri": "nyt://article/5998fb4f-de85-58c7-a7fc-66fb78704ac0",
+            "byline": "By Pam Belluck",
+            "item_type": "Article",
+            "updated_date": "2022-05-12T14:21:46-04:00",
+            "created_date": "2022-05-12T07:43:51-04:00",
+            "published_date": "2022-05-12T07:43:51-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Sex",
+                "Head and Neck Cancer",
+                "Lingerie and Underwear",
+                "Sexually Transmitted Diseases",
+                "Women and Girls",
+                "Mouth",
+                "Vagina",
+                "Human Papillomavirus (HPV)",
+                "your-feed-science",
+                "your-feed-healthcare"
+            ],
+            "org_facet": [
+                "Food and Drug Administration"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/05/12/science/12FDA-undies4/merlin_206746620_2dfad3d7-0856-42e8-92a2-33a85af16800-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Jovelle Tamayo for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/05/12/science/12FDA-undies4/12FDA-undies4-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Jovelle Tamayo for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/05/12/science/12FDA-undies4/12FDA-undies4-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Jovelle Tamayo for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/39hNfOM"
+        },
+        {
+            "section": "magazine",
+            "subsection": "",
+            "title": "The Man Who Controls Computers With His Mind",
+            "abstract": "16 years ago, Dennis DeGray was paralyzed in an accident. Now, implants in his brain allow him some semblance of control.",
+            "url": "https://www.nytimes.com/2022/05/12/magazine/brain-computer-interface.html",
+            "uri": "nyt://article/165b2470-f577-5593-94eb-e2e706239b45",
+            "byline": "By Ferris Jabr",
+            "item_type": "Article",
+            "updated_date": "2022-05-12T05:00:22-04:00",
+            "created_date": "2022-05-12T05:00:22-04:00",
+            "published_date": "2022-05-12T05:00:22-04:00",
+            "material_type_facet": "",
+            "kicker": "The Health Issue",
+            "des_facet": [
+                "Computers and the Internet",
+                "Brain",
+                "Science and Technology",
+                "Paralysis",
+                "Psychology and Psychologists",
+                "Medical Devices"
+            ],
+            "org_facet": [
+                "Neuralink Corp"
+            ],
+            "per_facet": [
+                "Musk, Elon"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/05/15/magazine/15mag-BCI/15mag-BCI-superJumbo-v4.png",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Illustration by Dadu Shin"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/05/15/magazine/15mag-BCI/15mag-BCI-threeByTwoSmallAt2X-v5.png",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Illustration by Dadu Shin"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/05/15/magazine/15mag-BCI/15mag-BCI-thumbLarge-v4.png",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Illustration by Dadu Shin"
+                }
+            ],
+            "short_url": "https://nyti.ms/3LkNC8F"
+        },
+        {
+            "section": "health",
+            "subsection": "",
+            "title": "Moderna Vaccine Provokes Strong Immune Response in Children 6 to 11",
+            "abstract": "Antibody levels rose in the children who received it, suggesting the vaccine protects against infection. But the data were gathered before the arrival of Omicron.",
+            "url": "https://www.nytimes.com/2022/05/11/health/covid-moderna-vaccine-kids.html",
+            "uri": "nyt://article/572d394c-0480-599f-a939-bc0256e58457",
+            "byline": "By Apoorva Mandavilli",
+            "item_type": "Article",
+            "updated_date": "2022-05-12T11:54:38-04:00",
+            "created_date": "2022-05-11T17:00:11-04:00",
+            "published_date": "2022-05-11T17:00:11-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "your-feed-science",
+                "Children and Childhood",
+                "Coronavirus (2019-nCoV)",
+                "Vaccination and Immunization",
+                "Coronavirus Omicron Variant",
+                "Clinical Trials",
+                "Disease Rates",
+                "Teenagers and Adolescence",
+                "Drugs (Pharmaceuticals)"
+            ],
+            "org_facet": [
+                "Moderna Inc",
+                "New England Journal of Medicine",
+                "Food and Drug Administration"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "United States"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/05/11/multimedia/11virus-moderna/11virus-moderna-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A vaccine site offered its services to people over age 5 in Los Angeles in March.",
+                    "copyright": "Alisha Jucevic for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/05/11/multimedia/11virus-moderna/11virus-moderna-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A vaccine site offered its services to people over age 5 in Los Angeles in March.",
+                    "copyright": "Alisha Jucevic for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/05/11/multimedia/11virus-moderna/11virus-moderna-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A vaccine site offered its services to people over age 5 in Los Angeles in March.",
+                    "copyright": "Alisha Jucevic for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/39d8W2v"
+        },
+        {
+            "section": "climate",
+            "subsection": "",
+            "title": "Air Pollution Can Mean More, or Fewer, Hurricanes. It Depends Where You Live.",
+            "abstract": "Smog from factories and cars has led to more storms in the Atlantic Ocean, but fewer in the Pacific. A new study explains why.",
+            "url": "https://www.nytimes.com/2022/05/11/climate/air-pollution-hurricanes.html",
+            "uri": "nyt://article/f5312f89-07d2-50ef-abeb-8555923019d9",
+            "byline": "By Henry Fountain",
+            "item_type": "Article",
+            "updated_date": "2022-05-12T08:22:22-04:00",
+            "created_date": "2022-05-11T13:00:11-04:00",
+            "published_date": "2022-05-11T13:00:11-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Hurricanes and Tropical Storms",
+                "Air Pollution",
+                "Oceans and Seas",
+                "Global Warming",
+                "Greenhouse Gas Emissions",
+                "Research"
+            ],
+            "org_facet": [
+                "Science Advances (Journal)",
+                "National Oceanic and Atmospheric Administration"
+            ],
+            "per_facet": [
+                "Murakami, Hiroyuki"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/05/11/climate/11cli-hurricanes/11cli-hurricanes-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1364,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Four storms off the east coast of North America in September 2020. ",
+                    "copyright": "NOAA"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/05/11/climate/11cli-hurricanes/11cli-hurricanes-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Four storms off the east coast of North America in September 2020. ",
+                    "copyright": "NOAA"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/05/11/climate/11cli-hurricanes/11cli-hurricanes-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Four storms off the east coast of North America in September 2020. ",
+                    "copyright": "NOAA"
+                }
+            ],
+            "short_url": "https://nyti.ms/3w4GTet"
+        },
+        {
+            "section": "us",
+            "subsection": "politics",
+            "title": "Russia Was Behind Cyberattack in Run-Up to Ukraine War, Investigation Finds",
+            "abstract": "The February attack rattled Pentagon officials and private industry because it revealed new vulnerabilities in global communications systems.",
+            "url": "https://www.nytimes.com/2022/05/10/us/politics/russia-cyberattack-ukraine-war.html",
+            "uri": "nyt://article/eb2fefe4-f971-5dba-8b7d-b5ab469bdd60",
+            "byline": "By David E. Sanger and Kate Conger",
+            "item_type": "Article",
+            "updated_date": "2022-05-11T15:40:44-04:00",
+            "created_date": "2022-05-10T18:51:34-04:00",
+            "published_date": "2022-05-10T18:51:34-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "United States International Relations",
+                "Politics and Government",
+                "Cyberwarfare and Defense",
+                "Computers and the Internet",
+                "Satellites"
+            ],
+            "org_facet": [
+                "European Union",
+                "Mandiant Corp",
+                "GRU (Russia)"
+            ],
+            "per_facet": [
+                "Biden, Joseph R Jr",
+                "Borrell Fontelles, Josep",
+                "Putin, Vladimir V"
+            ],
+            "geo_facet": [
+                "Russia",
+                "Ukraine"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/06/10/world/10dc-satellite-sub/merlin_206616450_a9dabe89-4989-4266-9a9f-a9aa11169df9-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Investigators said the Russian military intelligence agency took satellite communications in Ukraine offline. The attack came before the Feb. 24 invasion launched by President Vladimir V. Putin.",
+                    "copyright": "Kirill Kudryavtsev/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/06/10/world/10dc-satellite-sub/merlin_206616450_a9dabe89-4989-4266-9a9f-a9aa11169df9-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Investigators said the Russian military intelligence agency took satellite communications in Ukraine offline. The attack came before the Feb. 24 invasion launched by President Vladimir V. Putin.",
+                    "copyright": "Kirill Kudryavtsev/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/06/10/world/10dc-satellite-sub/10dc-satellite-sub-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Investigators said the Russian military intelligence agency took satellite communications in Ukraine offline. The attack came before the Feb. 24 invasion launched by President Vladimir V. Putin.",
+                    "copyright": "Kirill Kudryavtsev/Agence France-Presse — Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/3yvbmnK"
+        },
+        {
+            "section": "science",
+            "subsection": "",
+            "title": "How big is the Great Pacific Garbage Patch?",
+            "abstract": "Some 1.8 trillion pieces of plastic are estimated to be floating in an accumulation zone in the middle of the Pacific Ocean.",
+            "url": "https://www.nytimes.com/interactive/2022/05/10/science/science-quiz-great-pacific-garbage-patch.html",
+            "uri": "nyt://interactive/2828d9b9-f1ad-51ad-96e7-1ca12219378a",
+            "byline": "By Kenneth Chang",
+            "item_type": "Interactive",
+            "updated_date": "2022-05-10T10:05:58-04:00",
+            "created_date": "2022-05-10T09:56:58-04:00",
+            "published_date": "2022-05-10T09:56:58-04:00",
+            "material_type_facet": "",
+            "kicker": "Test Your Knowledge of the Universe",
+            "des_facet": [],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/05/10/science/10sci-newsletter-garbagepatch3/merlin_162047064_5ffa6a88-1553-4656-825f-b54166773f95-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1359,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A prototype from the Ocean Cleanup company captured plastic debris from the Great Pacific Garbage Patch in the Pacific Ocean in 2019.",
+                    "copyright": "The Ocean Cleanup/EPA, via Shutterstock"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/05/10/science/10sci-newsletter-garbagepatch3/10sci-newsletter-garbagepatch3-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A prototype from the Ocean Cleanup company captured plastic debris from the Great Pacific Garbage Patch in the Pacific Ocean in 2019.",
+                    "copyright": "The Ocean Cleanup/EPA, via Shutterstock"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/05/10/science/10sci-newsletter-garbagepatch3/merlin_162047064_5ffa6a88-1553-4656-825f-b54166773f95-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A prototype from the Ocean Cleanup company captured plastic debris from the Great Pacific Garbage Patch in the Pacific Ocean in 2019.",
+                    "copyright": "The Ocean Cleanup/EPA, via Shutterstock"
+                }
+            ],
+            "short_url": "https://nyti.ms/3vYG46J"
+        },
+        {
+            "section": "health",
+            "subsection": "",
+            "title": "Teens in Distress Are Swamping Pediatricians",
+            "abstract": "Around the country, the setting for adolescent mental health care looks ever more like this doctor’s office in Kentucky, the next patient arriving every 15 minutes.",
+            "url": "https://www.nytimes.com/2022/05/10/health/pediatricians-mental-health-crisis-teens.html",
+            "uri": "nyt://article/089f2a65-f48a-5da5-a490-5dec4b520cca",
+            "byline": "By Matt Richtel and Annie Flanagan",
+            "item_type": "Article",
+            "updated_date": "2022-05-10T15:54:47-04:00",
+            "created_date": "2022-05-10T03:00:16-04:00",
+            "published_date": "2022-05-10T03:00:16-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Anxiety and Stress",
+                "Mental Health and Disorders",
+                "Children and Childhood",
+                "Teenagers and Adolescence",
+                "Depression (Mental)",
+                "Attention Deficit Hyperactivity Disorder",
+                "Antidepressants",
+                "Psychiatry and Psychiatrists",
+                "Doctors",
+                "Coronavirus (2019-nCoV)",
+                "your-feed-health",
+                "your-feed-science"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/05/10/science/00adolescents-KENTUCKY1/00adolescents-KENTUCKY1-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1536,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Dr. Melissa Dennison, a pediatrician in Glasgow, Ky. “If I’ve got this child and they’re cutting and saying they’re going to kill themselves, I’ll say, ‘Well, I’ll see them today,’” she said. “If I call a child psychiatrist, they say, ‘I’ll see them in a month.’”",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/05/10/science/00adolescents-KENTUCKY1/00adolescents-KENTUCKY1-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Dr. Melissa Dennison, a pediatrician in Glasgow, Ky. “If I’ve got this child and they’re cutting and saying they’re going to kill themselves, I’ll say, ‘Well, I’ll see them today,’” she said. “If I call a child psychiatrist, they say, ‘I’ll see them in a month.’”",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/05/10/science/00adolescents-KENTUCKY1/00adolescents-KENTUCKY1-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Dr. Melissa Dennison, a pediatrician in Glasgow, Ky. “If I’ve got this child and they’re cutting and saying they’re going to kill themselves, I’ll say, ‘Well, I’ll see them today,’” she said. “If I call a child psychiatrist, they say, ‘I’ll see them in a month.’”",
+                    "copyright": ""
+                }
+            ],
+            "short_url": "https://nyti.ms/397j0K1"
+        },
+        {
+            "section": "us",
+            "subsection": "politics",
+            "title": "House Panel to Hold Public Hearing on Unexplained Aerial Sightings",
+            "abstract": "A subcommittee of the House Intelligence Committee will hear testimony next week from two Pentagon officials.",
+            "url": "https://www.nytimes.com/2022/05/10/us/politics/ufo-sightings-house-hearing.html",
+            "uri": "nyt://article/e92a52d2-f344-5ece-930d-8ba3c979fcfd",
+            "byline": "By Leslie Kean and Ralph Blumenthal",
+            "item_type": "Article",
+            "updated_date": "2022-05-10T12:49:16-04:00",
+            "created_date": "2022-05-10T03:00:05-04:00",
+            "published_date": "2022-05-10T03:00:05-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "United States Defense and Military Forces",
+                "Unidentified Flying Objects (UFO)"
+            ],
+            "org_facet": [
+                "Defense Department",
+                "House Committee on Intelligence"
+            ],
+            "per_facet": [
+                "Carson, Andre D (1974- )",
+                "Schiff, Adam B",
+                "Gillibrand, Kirsten E",
+                "Gallego, Ruben (1979- )"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2017/12/19/autossell/STILL2/STILL2-superJumbo-v2.gif",
+                    "format": "Super Jumbo",
+                    "height": 427,
+                    "width": 650,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Videos show an encounter between a Navy Super Hornet and an unknown object.",
+                    "copyright": "U.S. Department of Defense"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/12/19/autossell/STILL2/STILL2-mediumThreeByTwo440-v2.jpg",
+                    "format": "mediumThreeByTwo440",
+                    "height": 293,
+                    "width": 440,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Videos show an encounter between a Navy Super Hornet and an unknown object.",
+                    "copyright": "U.S. Department of Defense"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2017/12/19/autossell/STILL2/STILL2-thumbLarge-v2.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Videos show an encounter between a Navy Super Hornet and an unknown object.",
+                    "copyright": "U.S. Department of Defense"
+                }
+            ],
+            "short_url": "https://nyti.ms/3M5edri"
+        },
+        {
+            "section": "climate",
+            "subsection": "",
+            "title": "Oil Giants Sell Dirty Wells to Buyers With Looser Climate Goals, Study Finds",
+            "abstract": "The transactions can help major oil and gas companies clean up their own production by transferring polluting assets to a different firm, the analysis said.",
+            "url": "https://www.nytimes.com/2022/05/10/climate/oilfield-sales-pollution.html",
+            "uri": "nyt://article/3764a6fe-3ca7-520f-939d-f6ace8226054",
+            "byline": "By Hiroko Tabuchi",
+            "item_type": "Article",
+            "updated_date": "2022-05-10T13:19:35-04:00",
+            "created_date": "2022-05-10T00:01:06-04:00",
+            "published_date": "2022-05-10T00:01:06-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Oil (Petroleum) and Gasoline",
+                "Mergers, Acquisitions and Divestitures",
+                "Global Warming",
+                "Greenhouse Gas Emissions"
+            ],
+            "org_facet": [
+                "Eni SpA",
+                "Environmental Defense Fund",
+                "Exxon Mobil Corp",
+                "Royal Dutch Shell Plc",
+                "Trans-Niger Oil \u0026 Gas",
+                "Total SA",
+                "Pertamina",
+                "QatarEnergy",
+                "CNOOC Ltd",
+                "Slant Energy",
+                "Apache Corp"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Nigeria",
+                "Texas",
+                "Permian Basin (North America)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/05/10/climate/10cli-oilfield-sales1/merlin_195983535_a5ebac73-48ff-4aca-bda9-eeed19c2a7cf-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Flares burning in the Niger Delta region of Nigeria in 2021.",
+                    "copyright": "Sunday Alamba/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/05/10/climate/10cli-oilfield-sales1/10cli-oilfield-sales1-threeByTwoSmallAt2X-v2.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Flares burning in the Niger Delta region of Nigeria in 2021.",
+                    "copyright": "Sunday Alamba/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/05/10/climate/10cli-oilfield-sales1/10cli-oilfield-sales1-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Flares burning in the Niger Delta region of Nigeria in 2021.",
+                    "copyright": "Sunday Alamba/Associated Press"
+                }
+            ],
+            "short_url": "https://nyti.ms/3P9WzVq"
+        },
+        {
+            "section": "health",
+            "subsection": "",
+            "title": "Sizing Up the Decisions of Older Adults",
+            "abstract": "A new training tool helps to assess whether some seniors can make informed choices about their own care and well-being.",
+            "url": "https://www.nytimes.com/2022/05/09/health/ida-elderly-help.html",
+            "uri": "nyt://article/9ad5c998-ae54-5099-843e-cf9db03a6428",
+            "byline": "By Paula Span",
+            "item_type": "Article",
+            "updated_date": "2022-05-09T23:36:45-04:00",
+            "created_date": "2022-05-09T05:00:21-04:00",
+            "published_date": "2022-05-09T05:00:21-04:00",
+            "material_type_facet": "",
+            "kicker": "The New Old Age",
+            "des_facet": [
+                "your-feed-science",
+                "Finances",
+                "Elderly",
+                "Dementia",
+                "Wills and Estates",
+                "your-feed-health"
+            ],
+            "org_facet": [
+                "Financial Industry Regulatory Authority"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/05/10/science/07SPAN-IDA1/07SPAN-IDA1-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1364,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Interview for Decisional Abilities, or IDA, was developed by two geriatricians to help train Adult Protective Services workers in how to gather information about a client’s decision-making ability.",
+                    "copyright": "Lindsey Wasson/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/05/10/science/07SPAN-IDA1/07SPAN-IDA1-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Interview for Decisional Abilities, or IDA, was developed by two geriatricians to help train Adult Protective Services workers in how to gather information about a client’s decision-making ability.",
+                    "copyright": "Lindsey Wasson/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/05/10/science/07SPAN-IDA1/07SPAN-IDA1-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Interview for Decisional Abilities, or IDA, was developed by two geriatricians to help train Adult Protective Services workers in how to gather information about a client’s decision-making ability.",
+                    "copyright": "Lindsey Wasson/Reuters"
+                }
+            ],
+            "short_url": "https://nyti.ms/3yoCqoD"
+        },
+        {
+            "section": "health",
+            "subsection": "",
+            "title": "Hundreds of Suicidal Teens Sleep in Emergency Rooms. Every Night.",
+            "abstract": "With inpatient psychiatric services in short supply, adolescents are spending days, even weeks, in hospital emergency departments awaiting the help they desperately need.",
+            "url": "https://www.nytimes.com/2022/05/08/health/emergency-rooms-teen-mental-health.html",
+            "uri": "nyt://article/96ce3587-3219-5688-9314-59f2af4c9fc3",
+            "byline": "By Matt Richtel and Annie Flanagan",
+            "item_type": "Article",
+            "updated_date": "2022-05-09T14:10:46-04:00",
+            "created_date": "2022-05-08T05:00:25-04:00",
+            "published_date": "2022-05-08T05:00:25-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Hospitals",
+                "Teenagers and Adolescence",
+                "Mental Health and Disorders",
+                "Emergency Medical Treatment",
+                "Depression (Mental)",
+                "Suicides and Suicide Attempts",
+                "your-feed-science",
+                "your-feed-health",
+                "Shortages",
+                "Coronavirus (2019-nCoV)"
+            ],
+            "org_facet": [
+                "Children's Hospital Colorado",
+                "Boston Children's Hospital"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Aurora (Colo)",
+                "Colorado",
+                "United States"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/05/02/science/00ADOLESCENT-EMERGENCY1/merlin_206241084_d48a37b5-b2d1-4860-bc2a-05ee6d82e276-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1536,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/05/02/science/00ADOLESCENT-EMERGENCY1/merlin_206241084_d48a37b5-b2d1-4860-bc2a-05ee6d82e276-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/05/02/science/00ADOLESCENT-EMERGENCY1/merlin_206241084_d48a37b5-b2d1-4860-bc2a-05ee6d82e276-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": ""
+                }
+            ],
+            "short_url": "https://nyti.ms/38dwNPk"
+        },
+        {
+            "section": "science",
+            "subsection": "",
+            "title": "Quotation of the Day: Trump Ally in Nebraska Opens Feuds in G.O.P.",
+            "abstract": "Quotation of the Day for Sunday, May 8, 2022.",
+            "url": "https://www.nytimes.com/2022/05/08/science/quotation-of-the-day-trump-ally-in-nebraska-opens-feuds-in-gop.html",
+            "uri": "nyt://article/2592d40c-c158-5004-854b-b835ea817d83",
+            "byline": "",
+            "item_type": "Article",
+            "updated_date": "2022-05-09T08:51:43-04:00",
+            "created_date": "2022-05-08T00:32:01-04:00",
+            "published_date": "2022-05-08T00:32:01-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "United States Politics and Government",
+                "Elections, Governors"
+            ],
+            "org_facet": [
+                "Republican Party"
+            ],
+            "per_facet": [
+                "Herbster, Charles W",
+                "Trump, Donald J"
+            ],
+            "geo_facet": [
+                "Nebraska"
+            ],
+            "multimedia": null,
+            "short_url": "https://nyti.ms/3MWhdGu"
+        },
+        {
+            "section": "science",
+            "subsection": "",
+            "title": "Dr. Morton Mower, Inventor of Lifesaving Heart Device, Dies at 89",
+            "abstract": "With a colleague, he created a miniaturized defibrillator that could be implanted inside patients suffering from potentially fatal arrhythmia.",
+            "url": "https://www.nytimes.com/2022/05/07/science/morton-mower-dead.html",
+            "uri": "nyt://article/fe03be4e-970c-540e-8de9-7260307c79eb",
+            "byline": "By Richard Sandomir",
+            "item_type": "Article",
+            "updated_date": "2022-05-10T23:26:40-04:00",
+            "created_date": "2022-05-07T12:54:58-04:00",
+            "published_date": "2022-05-07T12:54:58-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Deaths (Obituaries)",
+                "Defibrillators",
+                "Heart",
+                "Doctors",
+                "Emergency Medical Treatment",
+                "Implantable Cardioverter Defibrillators (ICD)",
+                "Inventions and Patents"
+            ],
+            "org_facet": [
+                "Sinai Hospital",
+                "Johns Hopkins Hospital (Baltimore, Md)"
+            ],
+            "per_facet": [
+                "Mower, Morton (1933-2022)"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/05/11/obituaries/06mower-image1-SUB/06mower-image1-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 787,
+                    "width": 540,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Dr. Morton Mower in an undated photo. A device he helped invent saved many lives by returning potentially fatal irregular heart rhythms to normal with an electrical jolt.",
+                    "copyright": "Jewish National Fund-USA, via Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/05/11/obituaries/06mower-image1-SUB/06mower-image1-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Dr. Morton Mower in an undated photo. A device he helped invent saved many lives by returning potentially fatal irregular heart rhythms to normal with an electrical jolt.",
+                    "copyright": "Jewish National Fund-USA, via Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/05/11/obituaries/06mower-image1-SUB/06mower-image1-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Dr. Morton Mower in an undated photo. A device he helped invent saved many lives by returning potentially fatal irregular heart rhythms to normal with an electrical jolt.",
+                    "copyright": "Jewish National Fund-USA, via Associated Press"
+                }
+            ],
+            "short_url": "https://nyti.ms/3vR3dIf"
+        },
+        {
+            "section": "us",
+            "subsection": "",
+            "title": "In Alabama’s ‘19th Unnamed Cave,’ a Trove of Ancient Dark-Zone Art",
+            "abstract": "Researchers using 3-D technology brought to light an array of art in an Alabama cave, including a serpent, flying creatures and humanoid figures in regalia.",
+            "url": "https://www.nytimes.com/2022/05/07/us/cave-art-alabama.html",
+            "uri": "nyt://article/57104fe9-ccef-54cb-9485-88be16584036",
+            "byline": "By Christine Hauser",
+            "item_type": "Article",
+            "updated_date": "2022-05-09T23:25:15-04:00",
+            "created_date": "2022-05-07T05:30:07-04:00",
+            "published_date": "2022-05-07T05:30:07-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Native Americans",
+                "3-D Devices and Effects",
+                "Caves and Caverns",
+                "Archaeology and Anthropology",
+                "Art"
+            ],
+            "org_facet": [
+                "United States Geological Survey",
+                "University of Tennessee",
+                "Antiquity (Journal)"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Alabama"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/05/05/lens/00xp-caveart1/00xp-caveart1-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Stephen Alvarez worked on the photogrammetry project inside the main art gallery of the 19th Unnamed Cave in Alabama.",
+                    "copyright": "Alan Cressler"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/05/05/lens/00xp-caveart1/00xp-caveart1-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Stephen Alvarez worked on the photogrammetry project inside the main art gallery of the 19th Unnamed Cave in Alabama.",
+                    "copyright": "Alan Cressler"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/05/05/lens/00xp-caveart1/00xp-caveart1-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Stephen Alvarez worked on the photogrammetry project inside the main art gallery of the 19th Unnamed Cave in Alabama.",
+                    "copyright": "Alan Cressler"
+                }
+            ],
+            "short_url": "https://nyti.ms/3M6bhKQ"
+        },
+        {
+            "section": "health",
+            "subsection": "",
+            "title": "C.D.C. Is Investigating 109 Cases of Hepatitis in Children, Including 5 Deaths",
+            "abstract": "The agency stressed that the disease was still very rare in children and that a cause had not been determined.",
+            "url": "https://www.nytimes.com/2022/05/06/health/cdc-hepatitis-children.html",
+            "uri": "nyt://article/b197dedc-961e-5d2b-9372-6e2c53c8613a",
+            "byline": "By Gina Kolata",
+            "item_type": "Article",
+            "updated_date": "2022-05-06T23:41:19-04:00",
+            "created_date": "2022-05-06T16:28:41-04:00",
+            "published_date": "2022-05-06T16:28:41-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Hepatitis",
+                "Coronavirus (2019-nCoV)",
+                "Liver",
+                "Youth",
+                "your-feed-healthcare",
+                "Deaths (Fatalities)"
+            ],
+            "org_facet": [
+                "Centers for Disease Control and Prevention"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/05/06/science/06CDC-HEPATITIS/06CDC-HEPATITIS-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The C.D.C.’s case reports date from October and span 25 states and territories.",
+                    "copyright": "Tami Chappell/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/05/06/science/06CDC-HEPATITIS/06CDC-HEPATITIS-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The C.D.C.’s case reports date from October and span 25 states and territories.",
+                    "copyright": "Tami Chappell/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/05/06/science/06CDC-HEPATITIS/06CDC-HEPATITIS-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The C.D.C.’s case reports date from October and span 25 states and territories.",
+                    "copyright": "Tami Chappell/Reuters"
+                }
+            ],
+            "short_url": "https://nyti.ms/3PeM7vQ"
+        },
+        {
+            "section": "travel",
+            "subsection": "",
+            "title": "A Return Trip to Timothy Leary’s Psychedelic, Day-Glo Mexico",
+            "abstract": "Most travelers descending on Zihuatanejo are unaware of the resort city’s storied past with the apostle of psychedelic drugs, and his experiments in consciousness expansion.",
+            "url": "https://www.nytimes.com/2022/05/06/travel/mexico-timothy-leary-psychedelics.html",
+            "uri": "nyt://article/d2b1c8a0-44cb-52ac-91af-7127f9110325",
+            "byline": "By Nina Burleigh",
+            "item_type": "Article",
+            "updated_date": "2022-05-10T12:19:04-04:00",
+            "created_date": "2022-05-06T05:00:27-04:00",
+            "published_date": "2022-05-06T05:00:27-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Psychedelic and Hallucinogenic Drugs",
+                "LSD (Lysergic Acid Diethylamide)",
+                "Travel and Vacations",
+                "Psilocybin Mushrooms",
+                "Alternative and Complementary Medicine",
+                "Hotels and Travel Lodgings"
+            ],
+            "org_facet": [
+                "Hotel Catalina Beach Resort (Zihuatanejo, Mexico)"
+            ],
+            "per_facet": [
+                "Leary, Timothy",
+                "Ram Dass (1931- )"
+            ],
+            "geo_facet": [
+                "Zihuatanejo (Mexico)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/05/06/travel/00Mexico-Leary1/merlin_206064189_cccf5fe2-5bec-4c03-8b42-8041dfcb2694-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1367,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A view of Zihuatanejo, Mexico, from the sunset bar at the Hotel Catalina Beach Resort. The hotel was the setting of an ecstatic 1960s retreat organized by Timothy Leary, an apostle of psychedelic drugs.",
+                    "copyright": "Adrian Wilson for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/05/06/travel/00Mexico-Leary1/merlin_206064189_cccf5fe2-5bec-4c03-8b42-8041dfcb2694-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A view of Zihuatanejo, Mexico, from the sunset bar at the Hotel Catalina Beach Resort. The hotel was the setting of an ecstatic 1960s retreat organized by Timothy Leary, an apostle of psychedelic drugs.",
+                    "copyright": "Adrian Wilson for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/05/06/travel/00Mexico-Leary1/merlin_206064189_cccf5fe2-5bec-4c03-8b42-8041dfcb2694-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A view of Zihuatanejo, Mexico, from the sunset bar at the Hotel Catalina Beach Resort. The hotel was the setting of an ecstatic 1960s retreat organized by Timothy Leary, an apostle of psychedelic drugs.",
+                    "copyright": "Adrian Wilson for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3FmdjEg"
+        },
+        {
+            "section": "health",
+            "subsection": "",
+            "title": "Can Covid Lead to Impotence?",
+            "abstract": "Some studies find higher rates of erectile dysfunction among men recovering from the illness. But other factors related to the pandemic, like heightened anxiety, may also be to blame.",
+            "url": "https://www.nytimes.com/2022/05/05/health/covid-impotence-erectile-dysfunction.html",
+            "uri": "nyt://article/1eb26a09-a539-514d-aaf3-09f3044443b6",
+            "byline": "By Roni Caryn Rabin",
+            "item_type": "Article",
+            "updated_date": "2022-05-09T08:02:57-04:00",
+            "created_date": "2022-05-05T15:38:58-04:00",
+            "published_date": "2022-05-05T15:38:58-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "your-feed-science",
+                "Long Covid",
+                "Sex",
+                "Anxiety and Stress",
+                "Penis",
+                "Heart",
+                "Impotence",
+                "Depression (Mental)",
+                "Men and Boys"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/05/05/science/05virus-ed1/05virus-ed1-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A patient with long Covid is examined in a hospital in Israel. Some research indicates that the coronavirus may linger in cells in the male genital tract.",
+                    "copyright": "Amir Cohen/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/05/05/science/05virus-ed1/05virus-ed1-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A patient with long Covid is examined in a hospital in Israel. Some research indicates that the coronavirus may linger in cells in the male genital tract.",
+                    "copyright": "Amir Cohen/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/05/05/science/05virus-ed1/05virus-ed1-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A patient with long Covid is examined in a hospital in Israel. Some research indicates that the coronavirus may linger in cells in the male genital tract.",
+                    "copyright": "Amir Cohen/Reuters"
+                }
+            ],
+            "short_url": "https://nyti.ms/3KNYNq1"
+        },
+        {
+            "section": "climate",
+            "subsection": "",
+            "title": "For a Shy Porpoise, Rare Good News",
+            "abstract": "New research suggests that vaquitas are not doomed to extinction by inbreeding.",
+            "url": "https://www.nytimes.com/interactive/2022/05/05/climate/engandered-vaquitas-extinction-inbreeding.html",
+            "uri": "nyt://interactive/16763b95-24c2-5bd6-b49b-71f37b01eb1c",
+            "byline": "By Catrin Einhorn",
+            "item_type": "Interactive",
+            "updated_date": "2022-05-10T02:06:21-04:00",
+            "created_date": "2022-05-05T14:00:01-04:00",
+            "published_date": "2022-05-05T14:00:01-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Endangered and Extinct Species",
+                "Dolphins and Porpoises"
+            ],
+            "org_facet": [
+                "Science (Journal)"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/05/10/science/00cli-vaquitas1/00cli-vaquitas1-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1152,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Semarnat, via Agence France-Presse \u0026mdash; Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/05/10/science/00cli-vaquitas1/00cli-vaquitas1-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Semarnat, via Agence France-Presse \u0026mdash; Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/05/10/science/00cli-vaquitas1/00cli-vaquitas1-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Semarnat, via Agence France-Presse \u0026mdash; Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/38UnljE"
+        },
+        {
+            "section": "arts",
+            "subsection": "design",
+            "title": "Museum of Natural History’s Renewed Hall Holds Treasures and Pain",
+            "abstract": "Its oldest gallery, Northwest Coast Hall, reopens May 13 with rare cultural objects and a fresh emphasis on the lives of Indigenous people who made them.",
+            "url": "https://www.nytimes.com/2022/05/05/arts/design/museum-natural-history-indigenous-art.html",
+            "uri": "nyt://article/2f73a32d-100a-5d3b-af42-7806d03d880f",
+            "byline": "By Arthur Lubow",
+            "item_type": "Article",
+            "updated_date": "2022-05-06T09:37:14-04:00",
+            "created_date": "2022-05-05T11:48:15-04:00",
+            "published_date": "2022-05-05T11:48:15-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Restoration and Renovation",
+                "Museums",
+                "Art",
+                "Indigenous People"
+            ],
+            "org_facet": [
+                "wHY Architecture"
+            ],
+            "per_facet": [
+                "Yantrasast, Kulapat",
+                "Whiteley, Peter",
+                "Haa'yuups",
+                "Boas, Franz"
+            ],
+            "geo_facet": [
+                "Canada",
+                "Vancouver Island (British Columbia)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/05/06/arts/05amnh-northwest-hall-2/merlin_206344110_dddbf18e-b8e7-4143-8beb-7d5a88d181f4-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Northwest Coast Hall will reopen at the American Museum of Natural History after a five-year renovation on May 13, with new discoveries and exhibits developed with Indigenous communities from the Pacific Northwest Coast.",
+                    "copyright": "D. Finnin/AMNH"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/05/06/arts/05amnh-northwest-hall-2/merlin_206344110_dddbf18e-b8e7-4143-8beb-7d5a88d181f4-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Northwest Coast Hall will reopen at the American Museum of Natural History after a five-year renovation on May 13, with new discoveries and exhibits developed with Indigenous communities from the Pacific Northwest Coast.",
+                    "copyright": "D. Finnin/AMNH"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/05/06/arts/05amnh-northwest-hall-2/05amnh-northwest-hall-2-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Northwest Coast Hall will reopen at the American Museum of Natural History after a five-year renovation on May 13, with new discoveries and exhibits developed with Indigenous communities from the Pacific Northwest Coast.",
+                    "copyright": "D. Finnin/AMNH"
+                }
+            ],
+            "short_url": "https://nyti.ms/3Fj4OK1"
+        },
+        {
+            "section": "health",
+            "subsection": "",
+            "title": "Signs of an Animal Virus Discovered in Man Who Received a Pig’s Heart",
+            "abstract": "The patient showed no sign of rejecting the genetically modified organ, but suffered numerous complications before dying.",
+            "url": "https://www.nytimes.com/2022/05/05/health/pig-heart-transplant-virus.html",
+            "uri": "nyt://article/948a3aae-ffea-5db4-948a-63c34aa948cf",
+            "byline": "By Roni Caryn Rabin",
+            "item_type": "Article",
+            "updated_date": "2022-05-09T10:48:00-04:00",
+            "created_date": "2022-05-05T11:43:15-04:00",
+            "published_date": "2022-05-05T11:43:15-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Transplants",
+                "Surgery and Surgeons",
+                "Pigs",
+                "Heart",
+                "Genetic Engineering",
+                "Cytomegalovirus",
+                "your-feed-science"
+            ],
+            "org_facet": [
+                "University of Maryland"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Maryland"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/05/05/science/05transplant1/merlin_200180973_1417d2d1-ad23-462c-8528-9fd5f0daff2e-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1367,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A heart from a genetically modified pig transplanted into a human patient, David Bennett Sr. He carried DNA from an animal virus, his surgeon disclosed. ",
+                    "copyright": "University of Maryland School of Medicine, via Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/05/05/science/05transplant1/05transplant1-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A heart from a genetically modified pig transplanted into a human patient, David Bennett Sr. He carried DNA from an animal virus, his surgeon disclosed. ",
+                    "copyright": "University of Maryland School of Medicine, via Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/05/05/science/05transplant1/05transplant1-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A heart from a genetically modified pig transplanted into a human patient, David Bennett Sr. He carried DNA from an animal virus, his surgeon disclosed. ",
+                    "copyright": "University of Maryland School of Medicine, via Reuters"
+                }
+            ],
+            "short_url": "https://nyti.ms/3kH0c76"
+        }
+    ]
+}
