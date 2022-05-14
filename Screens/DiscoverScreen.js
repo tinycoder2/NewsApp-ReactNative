@@ -9,6 +9,7 @@ const DiscoverScreen = () => {
     const windowWidth = Dimensions.get("window").width;
     const SLIDE_WIDTH = Math.round(windowWidth / 3.5);
     const { setCategory, setSource } = useContext(NewsContext);
+
     return (
         <View style={{ ...styles.discover, backgroundColor: "coral" }}>
             {/* seasrch */}
@@ -45,6 +46,7 @@ const DiscoverScreen = () => {
             {/* sources */}
             <Text style={{ ...styles.subtitle, color: "white" }}>
                 Sources
+
             </Text>
             <View style={styles.sources}>
                 {sources.map((s) => (

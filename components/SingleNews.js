@@ -12,7 +12,7 @@ const SingleNews = ({ item, index }) => {
             transform: [{ scaleY: -1 }],
         }}>
             <Image
-                source={{ uri: item.urlToImage }}
+                source={{ uri: item.multimedia[0].url }}
                 style={{ height: "45%", resizeMode: "cover", width: windowWidth }}
             />
             <View
@@ -27,25 +27,22 @@ const SingleNews = ({ item, index }) => {
                 <Text
                     style={{ ...styles.content, color: "white" }}
                 >
-                    {item.description}
+                    {item.abstract}
                 </Text>
                 <Text style={{ color: "white" }}>
                     Short by
                     <Text style={{ fontWeight: "bold" }}>
                         {" "}
-                        {item.author ?? "unknown"}
+                        {item.byline ?? "unknown"}
                     </Text>
                 </Text>
             </View>
             <ImageBackground
                 blurRadius={30}
                 style={styles.footer}
-                source={{ uri: item.urlToImage }}
+                source={{ uri: item.multimedia[0].url }}
             >
                 <TouchableOpacity onPress={() => Linking.openURL(item.url)}>
-                    <Text style={{ fontSize: 15, color: "white" }}>
-                        '{item?.content?.slice(0, 45)}...'
-                    </Text>
                     <Text style={{ fontSize: 17, fontWeight: "bold", color: "white" }}>
                         Read More
                     </Text>

@@ -7,7 +7,7 @@ export const NewsContext = createContext()
 
 const Context = ({ children }) => {
     const [news, setNews] = useState([]);
-    const [category, setCategory] = useState("general");
+    const [category, setCategory] = useState("home");
     const [index, setIndex] = useState(0);
     const [source, setSource] = useState();
 
@@ -17,23 +17,23 @@ const Context = ({ children }) => {
         setIndex(1);
     }
 
-    const fetchNewsFromSource = async () => {
-        try {
-            const { data } = await axios.get(getSourceAPI(source));
-            setNews(data);
-            setIndex(1);
-        } catch (error) {
-            console.log(error)
-        }
-    }
+    // const fetchNewsFromSource = async () => {
+    //     try {
+    //         const { data } = await axios.get(getSourceAPI(source));
+    //         setNews(data);
+    //         setIndex(1);
+    //     } catch (error) {
+    //         console.log(error)
+    //     }
+    // }
 
     useEffect(() => {
         fetchNews();
     }, [category]);
 
-    useEffect(() => {
-        fetchNewsFromSource();
-    }, [source]);
+    // useEffect(() => {
+    //     fetchNewsFromSource();
+    // }, [source]);
 
 
     return (

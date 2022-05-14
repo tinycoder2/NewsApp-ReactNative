@@ -7,6 +7,7 @@ function App() {
   return (
     <View style={{ ...styles.container, backgroundColor: "lightblue" }}>
       <InshortTabs />
+
     </View>
   );
 }
