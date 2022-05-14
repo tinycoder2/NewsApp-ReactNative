@@ -24,7 +24,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.tinycoder2.FroggyNews"
     },
     "web": {
       "favicon": "./assets/favicon.png"

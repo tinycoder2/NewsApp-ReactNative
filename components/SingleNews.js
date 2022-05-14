@@ -69,7 +69,7 @@ const styles = StyleSheet.create({
         width: windowWidth,
         position: "absolute",
         bottom: 0,
-        backgroundColor: "#d7be69",
+        backgroundColor: "#194d33",
         justifyContent: "center",
         paddingHorizontal: 20,
     },
