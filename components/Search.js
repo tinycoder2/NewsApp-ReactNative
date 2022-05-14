@@ -5,7 +5,7 @@ import SingleNews from './SingleNews';
 import { Entypo } from "@expo/vector-icons";
 
 const Search = () => {
-    const { news: { articles }
+    const { news: { results }
     } = useContext(NewsContext);
 
     const [searchResults, setSearchResults] = useState([]);
@@ -17,7 +17,7 @@ const Search = () => {
             setSearchResults([]);
             return;
         }
-        setSearchResults(articles.filter((query) => query.title.includes(text)));
+        setSearchResults(results.filter((query) => query.title.toLowerCase().includes(text)));
     };
 
     const handleModal = (n) => {
@@ -30,15 +30,15 @@ const Search = () => {
             <TextInput
                 style={{
                     ...styles.search,
-                    backgroundColor: "blue",
-                    color: "white",
+                    backgroundColor: "rgba(153, 255, 221, 0.63)",
+                    color: "#194d33",
                 }}
                 onChangeText={(text) => handleSearch(text)}
                 placeholder="Search for news"
-                placeholderTextColor={"white"}
+                placeholderTextColor={"#194d33"}
             />
             <View style={styles.searchResults}>
-                {searchResults.slice(0, 10).map((n) => (
+                {searchResults.map((n) => (
                     <TouchableOpacity
                         key={n.title}
                         activeOpacity={0.7}
@@ -47,8 +47,8 @@ const Search = () => {
                         <Text
                             style={{
                                 ...styles.singleResult,
-                                backgroundColor: "black",
-                                color: "white",
+                                backgroundColor: "rgb(153, 255, 221)",
+                                color: "#194d33",
                             }}
                         >
                             {n.title}
@@ -95,6 +95,11 @@ const styles = StyleSheet.create({
         borderRadius: 10,
         fontSize: 15,
         marginBottom: 15,
+        borderStyle: "dotted",
+        borderColor: "white",
+        borderRadius: 100,
+        borderWidth: 2,
+
     },
     searchResults: {
         position: "absolute",
@@ -102,10 +107,11 @@ const styles = StyleSheet.create({
         top: 50,
     },
     singleResult: {
-        borderRadius: 5,
+        borderRadius: 100,
         padding: 10,
         margin: 0.5,
         shadowColor: "black",
         elevation: 5,
+
     },
 });

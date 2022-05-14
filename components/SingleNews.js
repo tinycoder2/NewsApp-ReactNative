@@ -18,7 +18,7 @@ const SingleNews = ({ item, index }) => {
             <View
                 style={{
                     ...styles.description,
-                    backgroundColor: "grey",
+                    backgroundColor: "#194d33",
                 }}
             >
                 <Text style={{ ...styles.title, color: "white" }}>
@@ -55,6 +55,7 @@ const SingleNews = ({ item, index }) => {
 const styles = StyleSheet.create({
     description: {
         padding: 15,
+        paddingBottom: 0,
         flex: 1,
     },
     title: {
@@ -64,7 +65,7 @@ const styles = StyleSheet.create({
     },
     content: { fontSize: 18, paddingBottom: 10 },
     footer: {
-        height: 80,
+        height: 150,
         width: windowWidth,
         position: "absolute",
         bottom: 0,

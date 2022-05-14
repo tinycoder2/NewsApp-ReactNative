@@ -3,6 +3,7 @@ import React, { useContext } from 'react'
 import { NewsContext } from '../API/Context';
 import { categories } from "../API/api";
 import Search from '../components/Search';
+import Search2 from '../components/Search2';
 
 const DiscoverScreen = () => {
     const windowWidth = Dimensions.get("window").width;
@@ -10,7 +11,7 @@ const DiscoverScreen = () => {
     const { setCategory } = useContext(NewsContext);
 
     return (
-        <View style={{ ...styles.discover, backgroundColor: "coral" }}>
+        <View style={{ ...styles.discover, backgroundColor: "#194d33" }}>
             {/* seasrch */}
             <Search />
 
@@ -50,9 +51,9 @@ const styles = StyleSheet.create({
         fontWeight: "bold",
         paddingBottom: 8,
         marginHorizontal: 5,
-        borderBottomColor: "#007FFF",
+        borderBottomColor: "#194d33",
         borderBottomWidth: 5,
-        alignSelf: "flex-start",
+        alignSelf: "center",
         borderRadius: 10,
     },
     category: {
