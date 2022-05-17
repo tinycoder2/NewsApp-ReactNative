@@ -1,6 +1,12 @@
 # NEWS APP
 - Final project for Android-Club-VITC FFCS
 - This app uses the NY Times Top Stories API to display an array of articles currently on the specified categories such as arts, business, etc.
+- Video DEMO 
+
+
+
+https://user-images.githubusercontent.com/72341529/168792318-3d1fec53-8e74-42d0-a4ad-3cbc808b7bc9.mp4
+
 
 
 
@@ -22,4 +28,7 @@
 
 - Search article pops up  
 <img src="/screenshots/searchPopup.png" width="260" height="500">
+
+
+
 
