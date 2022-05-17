@@ -31,7 +31,7 @@ const SingleNews = ({ item, index }) => {
                 </Text>
                 <Text style={{ color: "white" }}>
                     Short by
-                    <Text style={{ fontWeight: "bold" }}>
+                    <Text style={{ fontWeight: "bold", paddingBottom: 20 }}>
                         {" "}
                         {item.byline ?? "unknown"}
                     </Text>
@@ -65,7 +65,7 @@ const styles = StyleSheet.create({
     },
     content: { fontSize: 18, paddingBottom: 10 },
     footer: {
-        height: 150,
+        height: 100,
         width: windowWidth,
         position: "absolute",
         bottom: 0,
