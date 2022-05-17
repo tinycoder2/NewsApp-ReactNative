@@ -30,5 +30,5 @@ https://user-images.githubusercontent.com/72341529/168792318-3d1fec53-8e74-42d0-
 <img src="/screenshots/searchPopup.png" width="260" height="500">
 
 
-
+- Article : https://medium.com/@swaathykumar02/news-app-using-react-native-and-nytimes-top-stories-api-59c79072327e
 
